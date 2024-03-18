@@ -1,0 +1,303 @@
+body{
+    padding:0;
+    margin:0;
+    display:block;     
+ }
+ 
+ .container{
+     width:1200px;
+     margin: 0 auto;
+     display: block;   
+ }
+
+/* .nav-link {
+    color: #0d6efd;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    padding-left: 25px; 
+    padding: .5rem 1rem;
+} */
+
+/* .navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .5rem; 
+    padding-bottom: .5rem;
+} */
+
+/* .nav-link {
+    display: block;
+    color: #0d6efd;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+} */
+
+li.nav-item {
+    margin-left: 20px;
+}
+
+.page{
+    background-image: url(../images/home-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -60px;
+    
+}
+
+.website{
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+
+/* @media screen and (min-width:800px) {
+    .manage{
+        width: 1200px;
+        text-align: center;
+    }
+} */
+
+.info h6{
+    color: white;
+}
+
+.What{
+    margin-top: 50px;
+}
+
+.minimal h5{
+    text-decoration-color:skyblue !important ;
+    text-decoration: underline;
+    text-underline-offset: 15px;
+    text-decoration-thickness:4px;
+}
+
+.minimal p{
+    font-size: larger;
+    color: black !important;
+}
+
+.feature-mockup img{
+    width: 100%;
+}
+
+.team{
+    background-color: rgb(241, 237, 237);
+    margin-top: 50px;
+    height: 850px;
+}
+
+.professional h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.andrew img{
+    width: 100%;
+}
+
+.teammates{
+    background-color: whitesmoke;   
+}
+
+.andrew-text{
+    background-color: white;
+}
+
+.feedback img{
+    width: 100%;
+}
+
+.people{
+    background-color: black;
+}
+
+.said h3{
+    color: white;
+    margin-top: -10px;
+}
+
+.said p{
+    color: white;
+    font-size: larger;
+}
+
+.users img{
+    border-radius: 25px;
+    width: 50px;
+}
+
+.easy p{
+    color: black !important;
+}
+
+.design p{
+    color: black !important;
+}
+
+.carousel{
+    background-color: black;
+}
+
+.user{
+    padding: 20px;
+}
+
+/* .samar{
+    background-color: blue;
+} */
+
+.carousel {
+    padding: 30px;
+    /* height: 365px; */
+    position: relative;
+}
+
+.slider{
+    margin-top: 100PX;
+    margin-bottom: 50px ;
+}
+
+.choose{
+    background-color: whitesmoke;
+}
+
+.plans h3{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.plan p{
+    color: black;
+}
+
+.plan{
+    background-color: white;
+    border: solid;
+    border-color: white;
+    padding:20px;
+}
+
+.line{
+    margin-top: 30px;
+}
+
+button.btn.btn-outline-success {
+    border-radius: 20px;
+    color: white;
+    border-color: #198754;
+    background-color: #198754;
+}
+
+.plan{
+margin-top: 50px;
+}
+
+.logo h5{
+    color: white;
+    font-weight: bold;
+}
+
+/* @media screen and (min-width:1200px) {
+    .blue{
+        width: 1200px;
+        background-color: rgb(106, 106, 155);
+        opacity: .5;
+    }    
+} */
+
+.blue{
+    background-color: rgb(10, 39, 48);
+    opacity: 60%;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: white !important;
+}
+
+.name p{
+    color: white;
+    /* margin-bottom: 20px; */
+}
+
+.professional p{
+    color: white;
+    font-size: small;
+    font-weight: bold;
+}
+
+.manage h2{
+    color: white;
+    text-align: center;
+}
+
+.hello h1 {
+    text-align: center;
+}
+
+/* button.btn-dark{
+    border-radius: 50px;
+} */
+
+button.btn-dark {
+    margin-top: 17px;
+    height: 46px;
+    border-radius: 50px;
+}
+
+header{
+    color: white;    
+}
+
+#inputPassword3{
+    height: 200px;
+}
+
+/* .placeholder{
+
+} */
+
+.enter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.your{
+    border-radius:40px;
+}
+
+.email{
+    width: 200px;
+}
+
+button.start{
+        color: white;
+        border: none;
+        /* border-color: #198754; */
+        background-color: #198754;
+        border-radius: 25px;
+        height: 37px;
+        margin-top: 3px;
+        width: 120px;
+}
+
+.your{
+    border: solid;
+    border-radius: 10px;
+}
+
+input.form-control.your {
+    width: 250px;
+    border-radius: 20px;
+    border: solid;
+    background-color: white;
+}
+
+.right img {
+    width: 20px;
+    margin: 10px;
+}
